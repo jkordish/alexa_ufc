@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "GetNextFighterIntent",
+      "slots": [
+        {
+          "name": "fighter",
+          "type": "LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}

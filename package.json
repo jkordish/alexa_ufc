@@ -1,0 +1,19 @@
+{
+  "name": "alexa_ufc",
+  "version": "0.0.1",
+  "description": "UFC fighter lookup for Amazon Echo",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Kordish",
+  "license": "MIT",
+  "keywords": [
+    "alexa"
+  ],
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "json-query": "^1.5.0"
+  }
+}
